@@ -1,2 +1,2 @@
 # webtech-backend-beispiel
-hallo
+bonjour
